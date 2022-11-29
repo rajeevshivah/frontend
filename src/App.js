@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"; //importing react library
 import {
   BrowserRouter as Router,
   Route,
